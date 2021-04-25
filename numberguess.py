@@ -1,7 +1,8 @@
 #made by omlet.gg/dominocgaming46
 #All rights reserved
-from random import randrange, randint
-from time import sleep
+from random import randrange, randint, choice
+from time import time, sleep, clock
+from sys import *
 
 guess = 0
 num = 0
