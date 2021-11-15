@@ -1,4 +1,4 @@
-#made by omlet.gg/dominocgaming46
+#made by dom3#2069
 #All rights reserved
 from random import randrange, randint, choice
 from time import time, sleep, clock
@@ -70,6 +70,6 @@ def main():
 		print('Game stoped')
 	else:
 		print(f'system error')
-
-while True:
-	main()
+if __name__ == '__main__':
+        while True:
+        	main()
